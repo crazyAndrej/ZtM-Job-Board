@@ -1,0 +1,16 @@
+{
+    "name": "Andrej Lukasevic",
+    "img": "https://avatars.githubusercontent.com/u/105796853?v=4",
+    "email": "forandrej@gmail.com",
+    "links": {
+      "website": "https://portfolio-frontend-andrej.netlify.app",
+      "linkedin": "https://www.linkedin.com/in/andrej-lukasevics-4377a5250/",
+      "github": "https://github.com/crazyAndrej"
+    },
+    "jobTitle": "Frontend Developer",
+    "location": {
+      "city": "Peterborough",
+      "state": "Cambridgeshire",
+      "country": "United Kingdom"
+    }
+  }
